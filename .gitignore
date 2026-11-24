@@ -1,0 +1,12 @@
+# Local-only configuration and runtime data
+/application/config/config.php
+/application/config/database.php
+/application/config/*/config.php
+/application/config/*/database.php
+/application/config/secrets/
+/application/logs/
+/system/logs/
+/uploads/
+/vendor/
+/.env
+/.env.*
